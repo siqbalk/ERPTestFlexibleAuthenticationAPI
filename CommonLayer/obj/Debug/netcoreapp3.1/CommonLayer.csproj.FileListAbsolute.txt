@@ -1,0 +1,16 @@
+C:\Users\SyedIqbal\Documents\ERPTestAPI\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.deps.json
+C:\Users\SyedIqbal\Documents\ERPTestAPI\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\SyedIqbal\Documents\ERPTestAPI\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\SyedIqbal\Documents\ERPTestAPI\CommonLayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\SyedIqbal\Documents\ERPTestAPI\CommonLayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\SyedIqbal\Documents\ERPTestAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.AssemblyReference.cache
+C:\Users\SyedIqbal\Documents\ERPTestAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SyedIqbal\Documents\ERPTestAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\SyedIqbal\Documents\ERPTestAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfo.cs
+C:\Users\SyedIqbal\Documents\ERPTestAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\SyedIqbal\Documents\ERPTestAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.CopyComplete
+C:\Users\SyedIqbal\Documents\ERPTestAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\SyedIqbal\Documents\ERPTestAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\SyedIqbal\Documents\ERPTestAPI\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.runtimeconfig.json
+C:\Users\SyedIqbal\Documents\ERPTestAPI\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.runtimeconfig.dev.json
+C:\Users\SyedIqbal\Documents\ERPTestAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.genruntimeconfig.cache

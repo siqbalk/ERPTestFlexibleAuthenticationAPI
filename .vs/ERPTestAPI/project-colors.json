@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7786eb54-2a29-451d-b2d5-91929cc41b59": {
+      "ProjectGuid": "7786eb54-2a29-451d-b2d5-91929cc41b59",
+      "DisplayName": "UnitOfWork",
+      "ColorIndex": 0
+    },
+    "4fb43924-594c-4ff3-b606-079c4bd9210f": {
+      "ProjectGuid": "4fb43924-594c-4ff3-b606-079c4bd9210f",
+      "DisplayName": "RepositoryLayer",
+      "ColorIndex": 1
+    },
+    "756d0921-9f55-407c-8e03-57807d678864": {
+      "ProjectGuid": "756d0921-9f55-407c-8e03-57807d678864",
+      "DisplayName": "CommonLayer",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "157a94d2-717a-424e-b74f-e76aebe71cba": {
+      "ProjectGuid": "157a94d2-717a-424e-b74f-e76aebe71cba",
+      "DisplayName": "EntityLayer",
+      "ColorIndex": 3
+    },
+    "3a544888-1bd9-480f-9168-031c65199ba1": {
+      "ProjectGuid": "3a544888-1bd9-480f-9168-031c65199ba1",
+      "DisplayName": "ERPTestAPI",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
